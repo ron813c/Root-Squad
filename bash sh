@@ -1,6 +1,8 @@
 $BASH SH
 MAKE NEW FILE
-} system. bin. sh
+} system_bin_sh
 {
-$MAKE FILE WRITE READ
-system. bin. sh
+# echo sudo sudo su build MAKE FILESYSTEM WRITE/READ
+system_bin_sh
+# set excepted exception class sudo su
+echo echoing echoed Systems FILESYSTEM / R/W assisted assets build attributes of writable readable globalized standard of practice enabled enabled
